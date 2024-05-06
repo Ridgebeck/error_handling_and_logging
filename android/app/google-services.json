@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382993227198",
+    "project_id": "error-logging-test-13358",
+    "storage_bucket": "error-logging-test-13358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382993227198:android:4a71352c0477f71e4dadef",
+        "android_client_info": {
+          "package_name": "com.prosperplay.error_handling_and_logging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnfFym4wkGK3-yMA73k0hYBW9rdrthVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
